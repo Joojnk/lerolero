@@ -8,7 +8,7 @@ import random
 parte1 = [
 	"O sistema em desenvolvimento",
 	"O novo protocolo de comunicação",
-	"O algoritmo otimado"
+	"O algoritmo de otimização"
 	]
 parte2 = [
 	"possui excelente desempenho",
